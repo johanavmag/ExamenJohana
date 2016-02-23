@@ -1,0 +1,133 @@
+body{
+	font-family: 'Rokkitt', serif;
+	background-image:url("http://previews.123rf.com/images/apostrophe/apostrophe1306/apostrophe130600009/20161882-abstract-pattern-background-white-gray-pinstripe-line-design-element-for-graphic-art-use-vertical-li-Stock-Photo.jpg");
+}
+header, footer{
+	background-color:#404040;
+}
+.ptb-1{
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+h1{
+	font-family: 'Oswald', sans-serif;
+	font-weight: bolder;
+}
+nav ul{
+	margin-top: 2%;
+	list-style-type: none;
+	float: right;
+}
+nav li{
+	display: inline;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+nav li a {
+	text-decoration: none;
+	color: white;
+}
+
+.bg-white{
+	background-color:white;
+}
+.bg-white img{
+	height: 400px;
+	width: 600px;
+}
+.iconspan{
+	font-family: 'ElegantIcons';
+}
+.icon1 img{
+	height:20px;
+	width: 20px;
+}
+.bg-white button{
+	background-color: #999999;
+	border-radius: 30px;
+	border:0px;
+	padding:2%;
+	margin-top: 90px;
+	width:  100px;
+	color: white;
+	font-family: 'Rokkitt', sans-serif;
+	font-size: 15px;
+}
+.rokkitt{
+	font-family: 'Rokkitt', sans-serif;
+}
+section li a {
+	color: gray;
+	position: relative;
+	left: -80px;
+}
+#twittericon{
+	width: 100px;
+	height: 100px;
+	position: relative;
+	left: 70px;
+	top:-10px;
+	margin-top: 40px;
+}
+#img1{
+	height: 200px;
+	width: 500px;
+}
+#btload{
+	width: 150px;
+	height: 40px;
+	font-size: 20px;
+	position: relative;
+	left: 450px;
+	top: -100px;
+}
+#btfollow{
+	position: relative;
+	top:5px;
+	left: -5px;
+	width: 70px;
+	padding: 0px;
+}
+.linkf{
+	text-decoration: none;
+	color:  #ff3399;
+}
+span{
+	font-weight: lighter;
+}
+.redes{
+	border:1px dashed gray;
+	border-radius: 100px;
+	margin-right: 5px;
+	padding: 5px;
+}
+.heart{
+	margin-left: 100px;
+}
+.txtpink{
+	color:  #ff3399;
+}
+.pinktweet{
+	color: #ff3399;
+}
+.gray{
+	text-decoration: none;
+	color:#b3b3b3;
+}
+.btfollow2{
+	background-color:  #ff3399;
+	border:0px;
+	margin-left: 10px;
+	color: white;
+	border-radius: 3px;
+	padding: 2px;
+	font-size: 12px;
+}
+.bttop{
+	position: relative;
+	left:1270px;
+	background-color: gray;
+	padding: 20px;
+	border-radius: 100px;
+	color:white;
+}
