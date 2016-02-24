@@ -27,6 +27,12 @@ nav li a {
 	text-decoration: none;
 	color: white;
 }
+nav li:hover a {
+	background: transparent;
+}
+nav a:hover{
+	color: #ff3399;
+}
 
 .bg-white{
 	background-color:white;
@@ -102,13 +108,13 @@ span{
 	padding: 5px;
 }
 .heart{
-	margin-left: 100px;
+	margin-left: 25px;
+}
+.txticon{
+	font-size: 10px;
 }
 .txtpink{
 	color:  #ff3399;
-}
-.pinktweet{
-	color: #ff3399;
 }
 .gray{
 	text-decoration: none;
@@ -125,9 +131,28 @@ span{
 }
 .bttop{
 	position: relative;
-	left:1270px;
+	left:850px;
+	top: -110px; 
 	background-color: gray;
-	padding: 20px;
-	border-radius: 100px;
+	border-radius: 150%;
 	color:white;
+	padding: 1%;
+}
+input{
+	background-color:#404040;
+	color: white;
+	border:1px solid #595959;
+}
+#eye{
+	height: 15px;
+	width:17px;
+}
+.enlace{
+	text-decoration: none;
+	color:white;
+}
+.cuadros{
+	position: relative;
+	left: 850px;
+	top: 20px;
 }
